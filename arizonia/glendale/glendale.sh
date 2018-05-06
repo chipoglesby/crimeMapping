@@ -1,9 +1,8 @@
 #!/bin/bash
 
-startdate=2017-11-08
+startdate=$(date -v -1d "+%Y-%m-%d")
 enddate=$(date -v -1d "+%Y-%m-%d")
-# $(date -v -1d "+%Y-%m-%d")
-
+# date "+%Y-%m-%d"
 sDateTs=`date -j -f "%Y-%m-%d" $startdate "+%s"`
 eDateTs=`date -j -f "%Y-%m-%d" $enddate "+%s"`
 dateTs=$sDateTs
