@@ -1,0 +1,986 @@
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1705598","location":"700 BLOCK  S GOLDEN WEST AVE","agency":"Arcadia Police","date":20171108200301}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1705597","location":"800 BLOCK  MURRIETTA DR","agency":"Arcadia Police","date":20171108190201}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1705595","location":"300 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20171108183501}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705593","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171108142101}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1705635","location":"500 BLOCK  W WINNIE WAY","agency":"Arcadia Police","date":20171108140001}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1705594","location":"600 BLOCK  SHARON RD","agency":"Arcadia Police","date":20171108130001}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1705675","location":"2300 BLOCK  S THIRD AVE","agency":"Arcadia Police","date":20171108110000}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1705620","location":"100 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20171109212001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705617","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171109185001}
+{"description":"FRAUD","incidentNumber":"1705610","location":"200 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20171109132001}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1705639","location":"HOLLY AVE &  LAS TUNAS DR","agency":"Arcadia Police","date":20171110235801}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705638","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171110182101}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1705637","location":"0 BLOCK  CHRISTINA ST","agency":"Arcadia Police","date":20171110142101}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705632","location":"9900 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20171110120901}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705633","location":"1100 BLOCK  E CAMINO REAL AVE","agency":"Arcadia Police","date":20171110070000}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1705625","location":"11700 BLOCK  CLARK ST","agency":"Arcadia Police","date":20171110011200}
+{"description":"NARCOTICS","incidentNumber":"1705624","location":"BRADFORD AVE &  W LIVE OAK AVE","agency":"Arcadia Police","date":20171110001300}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1705673","location":"11900 BLOCK  GOLDRING RD","agency":"Arcadia Police","date":20171111230601}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705648","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171111174901}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1705646","location":"1200 BLOCK  RANCHO RD","agency":"Arcadia Police","date":20171111163001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1705640","location":"1100 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171111091300}
+{"description":"FRAUD","incidentNumber":"1705660","location":"600 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171111040000}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705665","location":"200 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20171112220601}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705669","location":"200 BLOCK  BONITA ST","agency":"Arcadia Police","date":20171112170001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705664","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20171112170001}
+{"description":"GRAFFITI","incidentNumber":"1705680","location":"0 BLOCK  E COLORADO BLVD","agency":"Arcadia Police","date":20171112160001}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1705738","location":"400 BLOCK  W PALM DR","agency":"Arcadia Police","date":20171112100000}
+{"description":"GRAFFITI","incidentNumber":"1705654","location":"0 BLOCK  ALTA ST","agency":"Arcadia Police","date":20171112094000}
+{"description":"MOTOR VEHICLE THEFT-TRUCK OR BUS","incidentNumber":"1705682","location":"FOOTHILL BLVD &  RODEO RD","agency":"Arcadia Police","date":20171113230001}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1705670","location":"1300 BLOCK  S FIFTH AVE","agency":"Arcadia Police","date":20171113082500}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1705691","location":"0 BLOCK  GENOA ST","agency":"Arcadia Police","date":20171114202701}
+{"description":"LARCENY-MOTOR VEHICLE PARTS","incidentNumber":"1705697","location":"LA CADENA AVE &  HUNTINGTON DR","agency":"Arcadia Police","date":20171114193001}
+{"description":"NARCOTICS","incidentNumber":"1705689","location":"HUNTINGTON DR &  GATEWAY DR","agency":"Arcadia Police","date":20171114184501}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1705698","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20171114153001}
+{"description":"FRAUD","incidentNumber":"1705686","location":"1000 BLOCK  S GOLDEN WEST AVE","agency":"Arcadia Police","date":20171114150501}
+{"description":"FRAUD","incidentNumber":"1705750","location":"400 BLOCK  S 3RD AVE","agency":"Arcadia Police","date":20171114140001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705702","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171115175201}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1705729","location":"2500 BLOCK  FLORENCE AVE","agency":"Arcadia Police","date":20171115163001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1705715","location":"300 BLOCK  WALNUT AVE","agency":"Arcadia Police","date":20171115140001}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1705699","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171115113000}
+{"description":"NARCOTICS","incidentNumber":"1705692","location":"WARREN WAY &  LAS TUNAS DR","agency":"Arcadia Police","date":20171115070800}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705709","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20171116114700}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1705710","location":"100 BLOCK  W LA SIERRA DR","agency":"Arcadia Police","date":20171116110000}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-UNKNOWN TIME","incidentNumber":"1705762","location":"800 BLOCK  MONTE VERDE DR","agency":"Arcadia Police","date":20171116080000}
+{"description":"NARCOTICS","incidentNumber":"1705705","location":"200 BLOCK  W WOODRUFF AVE","agency":"Arcadia Police","date":20171116024800}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1705728","location":"500 BLOCK  W WINNIE WAY","agency":"Arcadia Police","date":20171117212301}
+{"description":"ASSAULT","incidentNumber":"1705727","location":"800 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20171117193001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705723","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171117164901}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705718","location":"1300 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171117093500}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1705746","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171118211001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705767","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171118203001}
+{"description":"ASSAULT","incidentNumber":"1705742","location":"200 BLOCK  E NEWMAN AVE","agency":"Arcadia Police","date":20171118183301}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705745","location":"1000 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171118180001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1705733","location":"DUARTE RD &  GOLDEN WEST AVE","agency":"Arcadia Police","date":20171118102900}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705821","location":"1400 BLOCK  LOGANRITA AVE","agency":"Arcadia Police","date":20171120210001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705768","location":"300 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20171120185001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705757","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171120010200}
+{"description":"LARCENY-MOTOR VEHICLE PARTS","incidentNumber":"1705865","location":"900 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171121210001}
+{"description":"FRAUD","incidentNumber":"1705876","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171121192801}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705833","location":"700 BLOCK  S GOLDEN WEST AVE","agency":"Arcadia Police","date":20171121170001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705784","location":"2300 BLOCK  S 5TH AVE","agency":"Arcadia Police","date":20171121170001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705780","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171121165301}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1705778","location":"100 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20171121140001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705773","location":"100 BLOCK  DIAMOND ST","agency":"Arcadia Police","date":20171121103400}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1705800","location":"1000 BLOCK  W ORANGE GROVE AVE","agency":"Arcadia Police","date":20171122214901}
+{"description":"ROBBERY-STRONG ARM-CONVENIENCE STORE","incidentNumber":"1705798","location":"200 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20171122182701}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1705797","location":"DUARTE RD &  EL MONTE AVE","agency":"Arcadia Police","date":20171122174201}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1700381","location":"800 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171122140001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705853","location":"0 BLOCK  W ORANGE GROVE AVE","agency":"Arcadia Police","date":20171122111800}
+{"description":"FRAUD","incidentNumber":"1705840","location":"9500 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20171122100000}
+{"description":"ASSAULT","incidentNumber":"1705787","location":"200 BLOCK  FOOTHILL BLVD","agency":"Arcadia Police","date":20171122073000}
+{"description":"GRAFFITI","incidentNumber":"1705807","location":"500 BLOCK  WORKMAN AVE","agency":"Arcadia Police","date":20171123203001}
+{"description":"GRAFFITI","incidentNumber":"1705805","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171123152201}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705803","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20171123130801}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705810","location":"100 BLOCK  CALIFORNIA ST","agency":"Arcadia Police","date":20171123130001}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1705832","location":"1000 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20171124215801}
+{"description":"ASSAULT","incidentNumber":"1705830","location":"300 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171124210001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705831","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171124200001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705828","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171124180001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705823","location":"1000 BLOCK  FALLEN LEAF RD","agency":"Arcadia Police","date":20171124151501}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705826","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171124150001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705835","location":"900 BLOCK  VOLANTE DR","agency":"Arcadia Police","date":20171124125701}
+{"description":"FRAUD","incidentNumber":"1705891","location":"1100 BLOCK  VALENCIA WAY","agency":"Arcadia Police","date":20171124120001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705812","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171124061000}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1705856","location":"400 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20171125230001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705860","location":"0 BLOCK  BONITA ST","agency":"Arcadia Police","date":20171125220001}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1705851","location":"600 BLOCK  S OLD RANCH RD","agency":"Arcadia Police","date":20171125212501}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1705849","location":"SANTA ANITA AVE &  SANTA CLARA ST","agency":"Arcadia Police","date":20171125202201}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1705846","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171125194601}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1705845","location":"700 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20171125175901}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705843","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171125174101}
+{"description":"ASSAULT-KNIFE OR CUTTING INSTRUMENT","incidentNumber":"1705842","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171125160001}
+{"description":"NARCOTICS","incidentNumber":"1705838","location":"1100 BLOCK  MAYFLOWER AVE","agency":"Arcadia Police","date":20171125132101}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705841","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171125130001}
+{"description":"GRAFFITI","incidentNumber":"1705836","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20171125115500}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705871","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171126222801}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705889","location":"0 BLOCK  W FLORAL AVE","agency":"Arcadia Police","date":20171126210001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705878","location":"200 BLOCK  SIERRA OAKS DR","agency":"Arcadia Police","date":20171126180001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1705872","location":"500 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20171126161501}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-DAY","incidentNumber":"1705899","location":"11900 BLOCK  GOLDRING RD","agency":"Arcadia Police","date":20171126130501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705864","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20171126090000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705858","location":"200 BLOCK  S 3RD AVE","agency":"Arcadia Police","date":20171126024000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705862","location":"900 BLOCK  HAMPTON RD","agency":"Arcadia Police","date":20171126010000}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705903","location":"MAYFLOWER AVE &  SHRODE ST","agency":"Arcadia Police","date":20171127200001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1705885","location":"400 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20171127122101}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1705884","location":"2100 BLOCK  BELLA VISTA AVE","agency":"Arcadia Police","date":20171127082000}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-DAY","incidentNumber":"1705887","location":"200 BLOCK  E NEWMAN AVE","agency":"Arcadia Police","date":20171127080000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705910","location":"600 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171128201801}
+{"description":"FRAUD","incidentNumber":"1705912","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171128200001}
+{"description":"BURGLARY-NO FORCE-NON RESIDENCE-DAY","incidentNumber":"1705915","location":"11700 BLOCK  GOLDRING RD","agency":"Arcadia Police","date":20171128183501}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705916","location":"1100 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20171128160001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1705904","location":"700 BLOCK  S GOLDEN WEST AVE","agency":"Arcadia Police","date":20171128125701}
+{"description":"NARCOTICS","incidentNumber":"1705936","location":"S SANTA ANITA AVE &  E DUARTE RD","agency":"Arcadia Police","date":20171129235301}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1705950","location":"100 BLOCK  N 1ST AVE","agency":"Arcadia Police","date":20171129194501}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1705934","location":"100 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20171129194001}
+{"description":"FRAUD","incidentNumber":"1705949","location":"500 BLOCK  W LIVE OAK AVE","agency":"Arcadia Police","date":20171129150001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705924","location":"2200 BLOCK  S FIFTH AVE","agency":"Arcadia Police","date":20171129140001}
+{"description":"ROBBERY-STRONG ARM-HIGHWAY","incidentNumber":"1705928","location":"500 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20171129135201}
+{"description":"NARCOTICS","incidentNumber":"1705922","location":"1000 BLOCK  W FAIRVIEW AVE","agency":"Arcadia Police","date":20171129132101}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1705933","location":"0 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20171129120001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705920","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20171129111300}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705931","location":"300 BLOCK  LEDA LN","agency":"Arcadia Police","date":20171129044800}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1705952","location":"0 BLOCK  E LAS FLOORES AVE","agency":"Arcadia Police","date":20171130184101}
+{"description":"BURGLARY-NO FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1705942","location":"300 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20171130142401}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1705940","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171130114000}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705948","location":"1100 BLOCK  SUNSET BLVD","agency":"Arcadia Police","date":20171130052500}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706014","location":"900 BLOCK  S NINTH AVE","agency":"Arcadia Police","date":20171201210001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705996","location":"0 BLOCK  E SANTA CLARA ST","agency":"Arcadia Police","date":20171201204501}
+{"description":"FRAUD","incidentNumber":"1705965","location":"1800 BLOCK  ANITA CREST DR","agency":"Arcadia Police","date":20171201154201}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705999","location":"1100 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171201150001}
+{"description":"GRAFFITI","incidentNumber":"1705957","location":"1200 BLOCK  RODEO RD","agency":"Arcadia Police","date":20171201102100}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1705956","location":"2000 BLOCK  HIGHLAND OAKS DR","agency":"Arcadia Police","date":20171201091600}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1705959","location":"100 BLOCK  E LONGDEN AVE","agency":"Arcadia Police","date":20171201090000}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1705954","location":"2700 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171201054500}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705986","location":"2400 BLOCK  ALBERT WAY","agency":"Arcadia Police","date":20171202210001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705973","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171202065200}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1705971","location":"900 BLOCK  PARK AVE","agency":"Arcadia Police","date":20171202030500}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705977","location":"1100 BLOCK  VOLANTE DR","agency":"Arcadia Police","date":20171202014000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705972","location":"100 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20171202010000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705998","location":"1000 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171203213001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1705997","location":"1100 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171203200001}
+{"description":"GRAFFITI","incidentNumber":"1705992","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171203162001}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1705988","location":"100 BLOCK  E SANTA CLARA ST","agency":"Arcadia Police","date":20171203120001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1705984","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171203005000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706017","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171204200001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706015","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171204191501}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1706020","location":"0 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20171204103000}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1706004","location":"1500 BLOCK  LOGANRITA AVE","agency":"Arcadia Police","date":20171204081500}
+{"description":"NARCOTICS","incidentNumber":"1705994","location":"300 BLOCK  E HUNTTINGTON DR","agency":"Arcadia Police","date":20171204004000}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1706036","location":"1200 BLOCK  S FOURTH AVE","agency":"Arcadia Police","date":20171205211401}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1706035","location":"DUARTE RD &  BALDWIN AVE","agency":"Arcadia Police","date":20171205210201}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706029","location":"2400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171205153801}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1706057","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171206203601}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1706507","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171206203601}
+{"description":"NARCOTICS","incidentNumber":"1706056","location":"2200 BLOCK  S EIGHTH AVE","agency":"Arcadia Police","date":20171206202501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706059","location":"400 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20171206170001}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1706053","location":"100 BLOCK  W ARTHUR AVE","agency":"Arcadia Police","date":20171206160001}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1706050","location":"300 BLOCK  W LAS FLORES AVE","agency":"Arcadia Police","date":20171206133901}
+{"description":"FRAUD","incidentNumber":"1706047","location":"0 BLOCK  W LEMON AVE","agency":"Arcadia Police","date":20171206122701}
+{"description":"FRAUD","incidentNumber":"1706042","location":"1800 BLOCK  ELEVADO AVE","agency":"Arcadia Police","date":20171206100400}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1706071","location":"200 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20171206080000}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1706075","location":"400 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171207200001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706077","location":"400 BLOCK  HARVARD DR","agency":"Arcadia Police","date":20171207195401}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1706072","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171207163001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1706074","location":"400 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171207153001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706065","location":"1200 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171207110000}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1706061","location":"1000 BLOCK  ALTA VISTA ST","agency":"Arcadia Police","date":20171207074700}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706123","location":"900 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171208203001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706089","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171208202601}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706088","location":"200 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20171208201801}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1706087","location":"1800 BLOCK  HIGHLAND OAKS DR","agency":"Arcadia Police","date":20171208192201}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706084","location":"1400 BLOCK  S SIXTH AVE","agency":"Arcadia Police","date":20171208173001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1706094","location":"100 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20171208170001}
+{"description":"FRAUD","incidentNumber":"1706100","location":"400 BLOCK  E WINNIE WAY","agency":"Arcadia Police","date":20171208151501}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706081","location":"100 BLOCK  E CAMINO REAL AVE","agency":"Arcadia Police","date":20171208134801}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1706091","location":"100 BLOCK  E CAMINO REAL AVE","agency":"Arcadia Police","date":20171208103000}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1706086","location":"2600 BLOCK  LONGLEY WAY","agency":"Arcadia Police","date":20171208083000}
+{"description":"FRAUD","incidentNumber":"1706198","location":"2500 BLOCK  FLORENCE AVE","agency":"Arcadia Police","date":20171208000000}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706107","location":"200 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171209213701}
+{"description":"ASSAULT","incidentNumber":"1706108","location":"200 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20171209212301}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1706106","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171209204601}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706105","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171209180001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706103","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171209174001}
+{"description":"FRAUD","incidentNumber":"1706098","location":"DUARTE RD &  PARK AVE","agency":"Arcadia Police","date":20171209123001}
+{"description":"FRAUD","incidentNumber":"1706104","location":"1000 BLOCK  MONTE VERDE DR","agency":"Arcadia Police","date":20171209095100}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1706092","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171209080700}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706116","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171210192201}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706115","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171210133901}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706151","location":"800 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171210120001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1706111","location":"100 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20171210055300}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706110","location":"400 BLOCK  OXFORD DR","agency":"Arcadia Police","date":20171210015300}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706109","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171210005300}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706133","location":"100 BLOCK  W COLORADO BLVD","agency":"Arcadia Police","date":20171211211201}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1706167","location":"0 BLOCK  W SAINT JOSEPH ST","agency":"Arcadia Police","date":20171211210001}
+{"description":"FRAUD","incidentNumber":"1706131","location":"200 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20171211201401}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706130","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171211180301}
+{"description":"FRAUD","incidentNumber":"1706146","location":"800 BLOCK  S GOLDEN WEST AVE","agency":"Arcadia Police","date":20171211143101}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1706142","location":"1400 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20171211123201}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1706153","location":"HUNTINGTON DR &  GATE 3","agency":"Arcadia Police","date":20171212222901}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706152","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171212220601}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706150","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20171212205201}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1706149","location":"1900 BLOCK  ALTA OAKS AVE","agency":"Arcadia Police","date":20171212181101}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1706178","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20171212170001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706144","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20171212142101}
+{"description":"FRAUD","incidentNumber":"1706143","location":"2400 BLOCK  S 4TH AVE","agency":"Arcadia Police","date":20171212134301}
+{"description":"FRAUD","incidentNumber":"1706136","location":"HUNTINGTON DR &  SANTA ANITA AVE","agency":"Arcadia Police","date":20171212073800}
+{"description":"ASSAULT","incidentNumber":"1706188","location":"9900 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20171212023000}
+{"description":"FRAUD","incidentNumber":"1706175","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171213204201}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706174","location":"200 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20171213201601}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706180","location":"600 BLOCK  SHARON RD","agency":"Arcadia Police","date":20171213200001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706176","location":"9900 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20171213194201}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706172","location":"400 BLOCK  HARVARD DR","agency":"Arcadia Police","date":20171213192601}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1706173","location":"1000 BLOCK  CORONADO DR","agency":"Arcadia Police","date":20171213190701}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706170","location":"1300 BLOCK  S GOLDEN WEST","agency":"Arcadia Police","date":20171213183001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1706162","location":"100 BLOCK  E COLORADO BLVD","agency":"Arcadia Police","date":20171213150001}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1706155","location":"BALDWIN AVE &  SHARON RD","agency":"Arcadia Police","date":20171213020900}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1706265","location":"400 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171213000000}
+{"description":"ASSAULT-PERSONAL WEAPON (HANDS, FIST, FEET, ETC.)","incidentNumber":"1706186","location":"N SANTA ANITA AVE &  210 FREEWAY","agency":"Arcadia Police","date":20171214174501}
+{"description":"FRAUD","incidentNumber":"1706189","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171214174001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1706204","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171214101500}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1706209","location":"S SANTA ANITA AVE &  CALIFORNIA ST","agency":"Arcadia Police","date":20171215230201}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706208","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171215211501}
+{"description":"ASSAULT-PERSONAL WEAPON (HANDS, FIST, FEET, ETC.)","incidentNumber":"1706266","location":"2000 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171215180001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706218","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171215163001}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1706201","location":"1000 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171215133001}
+{"description":"FRAUD","incidentNumber":"1706221","location":"400 BLOCK  HARVARD DR","agency":"Arcadia Police","date":20171215000000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706224","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171216190001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706223","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171216180501}
+{"description":"FRAUD","incidentNumber":"1706217","location":"200 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20171216153501}
+{"description":"NARCOTICS","incidentNumber":"1706214","location":"LYND AVE &  MAYFLOWER AVE","agency":"Arcadia Police","date":20171216130501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706249","location":"0 BLOCK  W LEROY AVE","agency":"Arcadia Police","date":20171217220001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1706234","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171217183901}
+{"description":"GRAFFITI","incidentNumber":"1706241","location":"600 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20171217160001}
+{"description":"NARCOTICS","incidentNumber":"1706225","location":"11600 BLOCK  CLARK ST","agency":"Arcadia Police","date":20171217080800}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1706253","location":"COLORADO BLVD &  COLORADO PL","agency":"Arcadia Police","date":20171218202001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706246","location":"200 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20171218130001}
+{"description":"GRAFFITI","incidentNumber":"1706245","location":"600 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20171218122501}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1706238","location":"300 BLOCK  W MAGNA VISTA AVE","agency":"Arcadia Police","date":20171218075900}
+{"description":"GRAFFITI","incidentNumber":"1706270","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171219195901}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706269","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171219163001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706263","location":"LAS TUNAS DR &  EL MONTE AVE","agency":"Arcadia Police","date":20171219130901}
+{"description":"ROBBERY-FIREARM-CONVENIENCE STORE","incidentNumber":"1706257","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171219040300}
+{"description":"NARCOTICS","incidentNumber":"1706255","location":"HUNTINGTON DR &  FIFTH AVE","agency":"Arcadia Police","date":20171219004100}
+{"description":"MOTOR VEHICLE THEFT-AUTO","incidentNumber":"1706254","location":"HOLLY AVE &  DUARTE RD","agency":"Arcadia Police","date":20171219003500}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706256","location":"1400 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20171219000000}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706292","location":"1700 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171220213101}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1706289","location":"1000 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171220190001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706284","location":"600 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20171220183701}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706286","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171220182301}
+{"description":"LARCENY-POCKET PICKING","incidentNumber":"1706287","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171220180001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1762583","location":"600 BLOCK  VAQUERO RD","agency":"Arcadia Police","date":20171220171201}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706283","location":"600 BLOCK  VAQUERO RD","agency":"Arcadia Police","date":20171220171201}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1706282","location":"300 BLOCK  E FLORAL AVE","agency":"Arcadia Police","date":20171220151001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706279","location":"500 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20171220134101}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706275","location":"0 BLOCK  E COLORADO BLVD","agency":"Arcadia Police","date":20171220081900}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706323","location":"600 BLOCK  FLAMINGO WAY","agency":"Arcadia Police","date":20171221213001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706313","location":"700 BLOCK  W LEMON","agency":"Arcadia Police","date":20171221202001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706311","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171221183901}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1706310","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171221183501}
+{"description":"FRAUD","incidentNumber":"1706303","location":"0 BLOCK  W LEMON AVE","agency":"Arcadia Police","date":20171221154001}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1706295","location":"S BALDWIN AVE &  W CAMINO REAL AVE","agency":"Arcadia Police","date":20171221022000}
+{"description":"FRAUD","incidentNumber":"1706320","location":"2400 BLOCK  LEE AVE","agency":"Arcadia Police","date":20171221000000}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1706332","location":"200 BLOCK  HACIENDA DR","agency":"Arcadia Police","date":20171222203001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706327","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171222165701}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706324","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171222165001}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1706344","location":"2800 BLOCK  CAROLINE WAY","agency":"Arcadia Police","date":20171222160001}
+{"description":"ROBBERY-FIREARM-COMMERCIAL ESTABLISHMENT","incidentNumber":"1706321","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20171222140001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1706360","location":"11700 BLOCK  GOLDRING RD","agency":"Arcadia Police","date":20171222140001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706316","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171222110000}
+{"description":"ROBBERY-DANGEROUS WEAPON-HIGHWAY","incidentNumber":"1706317","location":"5600 BLOCK  PECK RD","agency":"Arcadia Police","date":20171222020000}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1706417","location":"2100 BLOCK  LOUISE AVE","agency":"Arcadia Police","date":20171222000000}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706339","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20171223221401}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1706338","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171223164001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706343","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171223160001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706336","location":"1000 BLOCK  CORONADO DR","agency":"Arcadia Police","date":20171223140401}
+{"description":"FRAUD","incidentNumber":"1706333","location":"200 BLOCK  HACIENDA DR","agency":"Arcadia Police","date":20171223094700}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1706342","location":"1300 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171223091200}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706331","location":"500 BLOCK  W LONGDEN AVE","agency":"Arcadia Police","date":20171223050000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706329","location":"1400 BLOCK  S 5TH AVE","agency":"Arcadia Police","date":20171223004300}
+{"description":"NARCOTICS","incidentNumber":"1706350","location":"0 BLOCK  W FOOTHILL BLVD","agency":"Arcadia Police","date":20171224215501}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1706349","location":"100 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20171224170001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706346","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171224130001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1706361","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171224110000}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706358","location":"2200 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20171224101500}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1706357","location":"1100 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20171225234301}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1706352","location":"500 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20171225112000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706369","location":"0 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20171226163001}
+{"description":"GRAFFITI","incidentNumber":"1706380","location":"0 BLOCK  LA PORTE ST","agency":"Arcadia Police","date":20171226141501}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1706384","location":"100 BLOCK  LA SIERRA DR","agency":"Arcadia Police","date":20171226100000}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706394","location":"PECK RD &  CLARK ST","agency":"Arcadia Police","date":20171227202201}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1706392","location":"BALDWIN AVE &  CAMINO REAL AVE","agency":"Arcadia Police","date":20171227191701}
+{"description":"GRAFFITI","incidentNumber":"1706389","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171227133001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706386","location":"200 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20171227130401}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1706398","location":"600 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20171227080000}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1706377","location":"0 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20171227015900}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706413","location":"1000 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171228211501}
+{"description":"ASSAULT","incidentNumber":"1706412","location":"300 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171228210201}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1706409","location":"700 BLOCK  S OLD RANCH RD","agency":"Arcadia Police","date":20171228191301}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-UNKNOWN TIME","incidentNumber":"1706407","location":"400 BLOCK  W PALM DR","agency":"Arcadia Police","date":20171228183901}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1706399","location":"1300 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20171228103200}
+{"description":"NARCOTICS","incidentNumber":"1706397","location":"8TH AVE &  WINNIE WAY","agency":"Arcadia Police","date":20171228010100}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1706426","location":"400 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20171229210001}
+{"description":"NARCOTICS","incidentNumber":"1706422","location":"HOLLY &  LONGDEN","agency":"Arcadia Police","date":20171229164501}
+{"description":"ASSAULT-OTHER DANGEROUS WEAPON","incidentNumber":"1706420","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171229143301}
+{"description":"FRAUD","incidentNumber":"1800031","location":"100 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20171230153601}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706439","location":"100 BLOCK  BONITA ST","agency":"Arcadia Police","date":20171230150001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1706434","location":"1100 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171230145501}
+{"description":"ROBBERY-DANGEROUS WEAPON-CONVENIENCE STORE","incidentNumber":"1706433","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20171230133001}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1706435","location":"300 BLOCK  N OLD RANCH RD","agency":"Arcadia Police","date":20171230110000}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1706430","location":"0 BLOCK  BONITA AVE","agency":"Arcadia Police","date":20171230100000}
+{"description":"GRAFFITI","incidentNumber":"1706431","location":"600 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20171230093000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800010","location":"300 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20171231213001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1706445","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20171231211401}
+{"description":"OTHER ASSAULTS","incidentNumber":"1706444","location":"200 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20171231201001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1706441","location":"1600 BLOCK  HOLLY AVE","agency":"Arcadia Police","date":20171231103600}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1800011","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180101194101}
+{"description":"FRAUD","incidentNumber":"1800004","location":"5TH &  SANTA CLARA ST","agency":"Arcadia Police","date":20180101104600}
+{"description":"FRAUD","incidentNumber":"1800050","location":"1100 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180101040600}
+{"description":"GRAFFITI","incidentNumber":"1800002","location":"0 BLOCK  LA PORTE ST","agency":"Arcadia Police","date":20180101035000}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800026","location":"0 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20180102215701}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800024","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180102203801}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800023","location":"700 BLOCK  SUNSET BLVD","agency":"Arcadia Police","date":20180102195701}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800012","location":"1200 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180102003500}
+{"description":"NARCOTICS","incidentNumber":"1800048","location":"0 BLOCK  CHRISTINA ST","agency":"Arcadia Police","date":20180103223901}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1800047","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180103203601}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800046","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180103194601}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800038","location":"FOOTHILL &  VALENCIA WAY","agency":"Arcadia Police","date":20180103172101}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800073","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180103152601}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800045","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180103140001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800042","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180103093000}
+{"description":"FRAUD","incidentNumber":"1800085","location":"1400 BLOCK  S TENTH AVE","agency":"Arcadia Police","date":20180103000000}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1800064","location":"500 BLOCK  W LE ROY AVE","agency":"Arcadia Police","date":20180104204801}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-NIGHT","incidentNumber":"1800066","location":"1100 BLOCK  LA CADENA AVE","agency":"Arcadia Police","date":20180104193001}
+{"description":"GRAFFITI","incidentNumber":"1800067","location":"100 BLOCK  CALIFORNIA ST","agency":"Arcadia Police","date":20180104181501}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1800059","location":"800 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180104150001}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1800057","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180104133501}
+{"description":"GRAFFITI","incidentNumber":"1800058","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180104131501}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800081","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180105193001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800078","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180105153001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800070","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180105101500}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800091","location":"600 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180106170001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800089","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180106150801}
+{"description":"GRAFFITI","incidentNumber":"1800119","location":"100 BLOCK  W LIVE OAK AVE","agency":"Arcadia Police","date":20180107210001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800099","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180107145901}
+{"description":"NARCOTICS","incidentNumber":"1800117","location":"FOOTHILL BLVD &  MICHILLINDA AVE","agency":"Arcadia Police","date":20180108200101}
+{"description":"FRAUD","incidentNumber":"1800113","location":"500 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180108131201}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800110","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180108121801}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800108","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180108101000}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800155","location":"400 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180108100000}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1800215","location":"300 BLOCK  W LE ROY AVE","agency":"Arcadia Police","date":20180108090000}
+{"description":"LARCENY-FROM COIN OPERATED MACHINE","incidentNumber":"1800105","location":"0 BLOCK  E COLORADO BLVD","agency":"Arcadia Police","date":20180108020000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800103","location":"600 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180108000000}
+{"description":"ROBBERY-FIREARM-RESIDENCE","incidentNumber":"1800132","location":"700 BLOCK  ESTRELLA AVE","agency":"Arcadia Police","date":20180109231801}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800138","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180109205001}
+{"description":"ROBBERY-FIREARM-RESIDENCE","incidentNumber":"1800131","location":"700 BLOCK  SHARON RD","agency":"Arcadia Police","date":20180109202001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800128","location":"100 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180109170001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800126","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180109145101}
+{"description":"FRAUD","incidentNumber":"1800125","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180109140601}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1800140","location":"100 BLOCK  W LAS FLORES AVE","agency":"Arcadia Police","date":20180109010000}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1800172","location":"800 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180110210001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800162","location":"1100 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180110183101}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800144","location":"800 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180110170001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800141","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180110163001}
+{"description":"FRAUD","incidentNumber":"1800156","location":"400 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20180110153001}
+{"description":"NARCOTICS","incidentNumber":"1800137","location":"CAMINO REAL AVE &  10TH AVE","agency":"Arcadia Police","date":20180110134801}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800135","location":"100 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20180110071800}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-NIGHT","incidentNumber":"1800164","location":"100 BLOCK  W NORMAN AVE","agency":"Arcadia Police","date":20180111212001}
+{"description":"FRAUD","incidentNumber":"1800157","location":"200 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180111161301}
+{"description":"WEAPONS, CARRYING, POSSESSING","incidentNumber":"1800149","location":"1300 BLOCK  OAKWOOD DR","agency":"Arcadia Police","date":20180111113000}
+{"description":"GRAFFITI","incidentNumber":"1800183","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180112213601}
+{"description":"GRAFFITI","incidentNumber":"1800184","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180112180001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800180","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180112174801}
+{"description":"GRAFFITI","incidentNumber":"1800218","location":"400 BLOCK  S. BALDWIN AVE","agency":"Arcadia Police","date":20180112173001}
+{"description":"GRAFFITI","incidentNumber":"1800181","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180112170001}
+{"description":"GRAFFITI","incidentNumber":"1800182","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180112153001}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1800179","location":"1100 BLOCK  ENCANTO DR","agency":"Arcadia Police","date":20180112143001}
+{"description":"FRAUD","incidentNumber":"1800167","location":"700 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180112000000}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800190","location":"2100 BLOCK  HOLLY AVE","agency":"Arcadia Police","date":20180113140001}
+{"description":"BURGLARY-ATTEMPT-NON RESIDENCE-NIGHT","incidentNumber":"1800188","location":"1700 BLOCK  HOLLY AVE","agency":"Arcadia Police","date":20180113134601}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800189","location":"400 BLOCK  E SANTA CLARA ST","agency":"Arcadia Police","date":20180113130001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800267","location":"400 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20180113122401}
+{"description":"FRAUD","incidentNumber":"1800194","location":"1300 BLOCK  STANDISH PL","agency":"Arcadia Police","date":20180113103000}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800207","location":"100 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180114174001}
+{"description":"BURGLARY-NO FORCE-NON RESIDENCE-DAY","incidentNumber":"1800208","location":"100 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180114172301}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800205","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180114152801}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800201","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180114021200}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800222","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180115180001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800226","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180115154001}
+{"description":"NARCOTICS","incidentNumber":"1800242","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180116215201}
+{"description":"BURGLARY-NO FORCE-NON RESIDENCE-DAY","incidentNumber":"1800286","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180116131501}
+{"description":"NARCOTICS","incidentNumber":"1800227","location":"100 BLOCK  S SECOND AVE","agency":"Arcadia Police","date":20180116021900}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800258","location":"300 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180117225601}
+{"description":"GRAFFITI","incidentNumber":"1800324","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180117190001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800250","location":"100 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180117114800}
+{"description":"NARCOTICS","incidentNumber":"1800249","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180117112100}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800253","location":"100 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180117101100}
+{"description":"FRAUD","incidentNumber":"1800244","location":"SANTA ANITA AVE &  DUARTE RD","agency":"Arcadia Police","date":20180117081300}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800276","location":"100 BLOCK  W LIVE OAK AVE","agency":"Arcadia Police","date":20180117070000}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1800271","location":"300 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180118204001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1800273","location":"100 BLOCK  W LIVE OAK AVE","agency":"Arcadia Police","date":20180118163001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800263","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180118105000}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800266","location":"0 BLOCK  DIAMOND ST","agency":"Arcadia Police","date":20180118083000}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800281","location":"1100 BLOCK  RODEO RD","agency":"Arcadia Police","date":20180119135801}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800280","location":"0 BLOCK  W LONGDEN AVE","agency":"Arcadia Police","date":20180119114500}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-NIGHT","incidentNumber":"1800300","location":"1000 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180120233301}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800298","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180120181801}
+{"description":"GRAFFITI","incidentNumber":"1800309","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180120163001}
+{"description":"ASSAULT","incidentNumber":"1800295","location":"1100 BLOCK  OKOBOJI DR","agency":"Arcadia Police","date":20180120160401}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800294","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180120152601}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800291","location":"600 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180120040000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800313","location":"0 BLOCK  SIERRA MADRE BLVD","agency":"Arcadia Police","date":20180121180001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800305","location":"600 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180121144601}
+{"description":"WEAPONS, CARRYING, POSSESSING","incidentNumber":"1800301","location":"1000 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180121023400}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800323","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180122190001}
+{"description":"FRAUD","incidentNumber":"1800315","location":"500 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180122170801}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1800427","location":"300 BLOCK  E FOREST AVE","agency":"Arcadia Police","date":20180122100000}
+{"description":"NARCOTICS","incidentNumber":"1800329","location":"400 BLOCK  E SANTA CLARA ST","agency":"Arcadia Police","date":20180123233401}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800344","location":"1000 BLOCK  LA CADENA AVE","agency":"Arcadia Police","date":20180123190001}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1800328","location":"400 BLOCK  SAN LUIS REY RD","agency":"Arcadia Police","date":20180123175801}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800325","location":"100 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180123160001}
+{"description":"ASSAULT-PERSONAL WEAPON (HANDS, FIST, FEET, ETC.)","incidentNumber":"1800320","location":"0 BLOCK  E COLORADO BLVD","agency":"Arcadia Police","date":20180123114500}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800353","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180124190001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800352","location":"100 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180124150001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1800342","location":"200 BLOCK  W COLORADO PL","agency":"Arcadia Police","date":20180124133301}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1800338","location":"600 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180124111500}
+{"description":"GRAFFITI","incidentNumber":"1800335","location":"800 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180124105000}
+{"description":"GRAFFITI","incidentNumber":"1800341","location":"100 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180124090000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800340","location":"5400 BLOCK  PECK RD","agency":"Arcadia Police","date":20180124083000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800330","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180124000500}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800370","location":"500 BLOCK  W PALM DR","agency":"Arcadia Police","date":20180125223501}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1800369","location":"100 BLOCK  W PALM DR","agency":"Arcadia Police","date":20180125212301}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800354","location":"100 BLOCK  W LIVE OAK AVE","agency":"Arcadia Police","date":20180125052000}
+{"description":"ASSAULT","incidentNumber":"1800365","location":"600 BLOCK  BEVERLY DR","agency":"Arcadia Police","date":20180125040000}
+{"description":"ROBBERY-FIREARM-COMMERCIAL ESTABLISHMENT","incidentNumber":"1800389","location":"300 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180126215701}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800403","location":"800 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20180126193001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800385","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180126171201}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800395","location":"1700 BLOCK  RODEO RD","agency":"Arcadia Police","date":20180126124501}
+{"description":"FRAUD","incidentNumber":"1800401","location":"0 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180126085700}
+{"description":"NARCOTICS","incidentNumber":"1800377","location":"EL MONTE AVE &  CAMINO REAL AVE","agency":"Arcadia Police","date":20180126083800}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-NIGHT","incidentNumber":"1800375","location":"100 BLOCK  W LA SIERRA DR","agency":"Arcadia Police","date":20180126030000}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-NIGHT","incidentNumber":"1800374","location":"700 BLOCK  HAMPTON RD","agency":"Arcadia Police","date":20180126024700}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800371","location":"1000 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180126011000}
+{"description":"GRAFFITI","incidentNumber":"1800410","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180127205501}
+{"description":"ASSAULT","incidentNumber":"1800408","location":"300 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180127191001}
+{"description":"LARCENY-MOTOR VEHICLE PARTS","incidentNumber":"1800416","location":"1100 BLOCK  S GOLDEN WEST AVE","agency":"Arcadia Police","date":20180127180001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800402","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180127150001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800397","location":"200 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180127114900}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1800405","location":"800 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20180127043600}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800430","location":"700 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20180128235901}
+{"description":"NARCOTICS","incidentNumber":"1800422","location":"100 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180128203101}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1800421","location":"800 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180128190401}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800420","location":"1300 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180128162001}
+{"description":"NARCOTICS","incidentNumber":"1800411","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180128021600}
+{"description":"NARCOTICS","incidentNumber":"1800439","location":"SANTA ANITA &  COLORADO","agency":"Arcadia Police","date":20180129200701}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1800433","location":"0 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180129145801}
+{"description":"ROBBERY-STRONG ARM-COMMERCIAL ESTABLISHMENT","incidentNumber":"1800432","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180129130701}
+{"description":"FRAUD","incidentNumber":"1800447","location":"100 BLOCK  E SYCAMORE AVE","agency":"Arcadia Police","date":20180129120001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800429","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180129105100}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800426","location":"900 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20180129085800}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800458","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180130210001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800459","location":"100 BLOCK  W LIVE OAK AVE","agency":"Arcadia Police","date":20180130210001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800456","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180130182001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800470","location":"100 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180130170001}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800443","location":"500 BLOCK  SANTA ROSA RD","agency":"Arcadia Police","date":20180130061500}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800442","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180130035400}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800476","location":"DUARTE RD &  SUNSET BLVD","agency":"Arcadia Police","date":20180131232301}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800472","location":"800 BLOCK  HUNGATE LN","agency":"Arcadia Police","date":20180131174801}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800474","location":"0 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180131172001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800473","location":"0 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180131172001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800466","location":"400 BLOCK  S BALDWIN","agency":"Arcadia Police","date":20180131154001}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800460","location":"300 BLOCK  GENOA ST","agency":"Arcadia Police","date":20180131132201}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800467","location":"1800 BLOCK  S WATSON DR","agency":"Arcadia Police","date":20180131061500}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800462","location":"1100 BLOCK  S 9TH AVE","agency":"Arcadia Police","date":20180131060000}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800485","location":"900 BLOCK  BALBOA DR","agency":"Arcadia Police","date":20180201215801}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1800504","location":"0 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180201200001}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800483","location":"E CAMINO REAL AVE &  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180201193601}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1800478","location":"200 BLOCK  SANTA CRUZ RD","agency":"Arcadia Police","date":20180201053500}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800477","location":"400 BLOCK  W NORMAN AVE","agency":"Arcadia Police","date":20180201023500}
+{"description":"FRAUD","incidentNumber":"1800497","location":"300 BLOCK  W LIVE OAK","agency":"Arcadia Police","date":20180202203101}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800493","location":"500 BLOCK  W LONGDEN AVE","agency":"Arcadia Police","date":20180202163001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800550","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180202143901}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800522","location":"500 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20180203201301}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800521","location":"100 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20180203194901}
+{"description":"ROBBERY-STRONG ARM-HIGHWAY","incidentNumber":"1800520","location":"E CAMINO REAL AVE &  S 10TH AVE","agency":"Arcadia Police","date":20180203184501}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800518","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180203181001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800516","location":"1200 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180203162501}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1800513","location":"1400 BLOCK  MELANIE LN","agency":"Arcadia Police","date":20180203154701}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1800535","location":"700 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180203123001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800514","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180203120001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800508","location":"600 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180203090000}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1800503","location":"200 BLOCK  COLORADO PL","agency":"Arcadia Police","date":20180203041500}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800515","location":"100 BLOCK  W SANTA ANITA TER","agency":"Arcadia Police","date":20180203030000}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800511","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180203012900}
+{"description":"ASSAULT","incidentNumber":"1800530","location":"800 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180204211501}
+{"description":"ASSAULT","incidentNumber":"1800529","location":"200 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180204191201}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800528","location":"800 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20180204184501}
+{"description":"WEAPONS, CARRYING, POSSESSING","incidentNumber":"1800524","location":"MONTE VISTA RD &  CATALPA RD","agency":"Arcadia Police","date":20180204152401}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800523","location":"500 BLOCK  SANTA ROSA","agency":"Arcadia Police","date":20180204082000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800541","location":"1500 BLOCK  MARENDALE LN","agency":"Arcadia Police","date":20180204000000}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1800547","location":"700 BLOCK  ANOAKIA LN","agency":"Arcadia Police","date":20180205181001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800546","location":"1600 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180205050000}
+{"description":"FRAUD","incidentNumber":"1800560","location":"11100 BLOCK  DAINES DR","agency":"Arcadia Police","date":20180206184501}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800559","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180206183701}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800556","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180206165501}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800539","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180206115200}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800581","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180207192801}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1800580","location":"800 BLOCK  SINGING WOOD DR","agency":"Arcadia Police","date":20180207164501}
+{"description":"FRAUD","incidentNumber":"1800577","location":"1100 BLOCK  PALOMA DR","agency":"Arcadia Police","date":20180207163501}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1800572","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180207151001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800573","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180207150201}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1800571","location":"100 BLOCK  N SECOND AVE","agency":"Arcadia Police","date":20180207141501}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800553","location":"400 BLOCK  STANFORD DR","agency":"Arcadia Police","date":20180207131101}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1800569","location":"200 BLOCK  MONTE PL","agency":"Arcadia Police","date":20180207110000}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800576","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180207100000}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1800707","location":"600 BLOCK  SANTA ROSA RD","agency":"Arcadia Police","date":20180207090000}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800564","location":"100 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180207020300}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800598","location":"GOLDRING RD &  PECK RD","agency":"Arcadia Police","date":20180208194101}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800596","location":"900 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180208170701}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800594","location":"700 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180208165501}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800627","location":"500 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180209211501}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800635","location":"0 BLOCK  W LIVE OAK AVE","agency":"Arcadia Police","date":20180209190001}
+{"description":"NARCOTICS","incidentNumber":"1800617","location":"BALDWIN AVE &  GATE 7","agency":"Arcadia Police","date":20180209184001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800625","location":"11600 BLOCK  GOLDRING RD","agency":"Arcadia Police","date":20180209180001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800611","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180209110000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800624","location":"SANTA MARGARITA &  SINGING WOOD","agency":"Arcadia Police","date":20180210190001}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-NIGHT","incidentNumber":"1800639","location":"300 BLOCK  E LEMON AVE","agency":"Arcadia Police","date":20180210173001}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1800656","location":"300 BLOCK  W WOODRUFF AVE","agency":"Arcadia Police","date":20180210154001}
+{"description":"ROBBERY-FIREARM-HIGHWAY","incidentNumber":"1800634","location":"300 BLOCK  DIAMOND ST","agency":"Arcadia Police","date":20180210124601}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800636","location":"100 BLOCK  E LA SIERRA DR","agency":"Arcadia Police","date":20180210123001}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1800628","location":"500 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180210091700}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800632","location":"200 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180210015000}
+{"description":"FRAUD","incidentNumber":"1800638","location":"1100 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20180210000000}
+{"description":"ALCOHOL RELATED VIOLATIONS","incidentNumber":"1800659","location":"LAS TUNAS &  EL MONTE","agency":"Arcadia Police","date":20180211235201}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800662","location":"600 BLOCK  ENCINO CT","agency":"Arcadia Police","date":20180211220001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800658","location":"1100 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180211220001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800657","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180211214101}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800655","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180211205401}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800654","location":"200 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180211190501}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800653","location":"200 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180211182201}
+{"description":"LARCENY-PURSE SNATCHING","incidentNumber":"1800678","location":"1200 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180211181501}
+{"description":"NARCOTICS","incidentNumber":"1800645","location":"E SANTA CLARA ST &  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180211095200}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-DAY","incidentNumber":"1800647","location":"2600 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180211080500}
+{"description":"NARCOTICS","incidentNumber":"1800644","location":"0 BLOCK  N SECOND AVE","agency":"Arcadia Police","date":20180211043400}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800681","location":"700 BLOCK  W DUARTE","agency":"Arcadia Police","date":20180212230001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800680","location":"700 BLOCK  W DUARTE","agency":"Arcadia Police","date":20180212230001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800683","location":"100 BLOCK  FANO ST","agency":"Arcadia Police","date":20180212220001}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1800690","location":"0 BLOCK  GENOA ST","agency":"Arcadia Police","date":20180212210001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800682","location":"100 BLOCK  FANO ST","agency":"Arcadia Police","date":20180212210001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800674","location":"800 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180212193701}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800689","location":"100 BLOCK  GENOA ST","agency":"Arcadia Police","date":20180212190001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800676","location":"700 BLOCK  NAOMI AVE","agency":"Arcadia Police","date":20180212190001}
+{"description":"ASSAULT","incidentNumber":"1800670","location":"100 BLOCK  E SAINT JOSEPH ST","agency":"Arcadia Police","date":20180212140001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800661","location":"1600 BLOCK  LOGANRITA AVE","agency":"Arcadia Police","date":20180212071000}
+{"description":"NARCOTICS","incidentNumber":"1800696","location":"100 BLOCK  N 2ND AVE","agency":"Arcadia Police","date":20180213214701}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800695","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180213205401}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-NIGHT","incidentNumber":"1800709","location":"100 BLOCK  CALIFORNIA ST","agency":"Arcadia Police","date":20180213190001}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1800698","location":"300 BLOCK  E NEWMAN AVE","agency":"Arcadia Police","date":20180213163001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800687","location":"1200 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180213120001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800685","location":"100 BLOCK  FANO ST","agency":"Arcadia Police","date":20180213000800}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1800712","location":"900 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180214200701}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800730","location":"300 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180214190101}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800708","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180214150001}
+{"description":"NARCOTICS","incidentNumber":"1800701","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180214080100}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-DAY","incidentNumber":"1800710","location":"100 BLOCK  CALIFORNIA ST","agency":"Arcadia Police","date":20180214080000}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800703","location":"300 BLOCK  E FLORAL AVE","agency":"Arcadia Police","date":20180214074000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800723","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180214015200}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800722","location":"1600 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180215113700}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-DAY","incidentNumber":"1800721","location":"600 BLOCK  SANTA ROSA RD","agency":"Arcadia Police","date":20180215100000}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800717","location":"100 BLOCK  W LIVE OAK AVE","agency":"Arcadia Police","date":20180215040000}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800716","location":"E COLORADO BLVD &  N FIRST AVE","agency":"Arcadia Police","date":20180215033700}
+{"description":"FRAUD","incidentNumber":"1800715","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180215011700}
+{"description":"GRAFFITI","incidentNumber":"1800745","location":"1000 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20180216230001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800740","location":"100 BLOCK  W LAS FLORES AVE","agency":"Arcadia Police","date":20180216230001}
+{"description":"GRAFFITI","incidentNumber":"1800747","location":"5700 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180216213001}
+{"description":"GRAFFITI","incidentNumber":"1800746","location":"5700 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180216213001}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1800775","location":"100 BLOCK  E LAS FLORES AVE","agency":"Arcadia Police","date":20180216170001}
+{"description":"GRAFFITI","incidentNumber":"1800744","location":"1000 BLOCK  PORTOLA DR","agency":"Arcadia Police","date":20180216163001}
+{"description":"BURGLARY-NO FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1800736","location":"0 BLOCK  BONITA ST","agency":"Arcadia Police","date":20180216083000}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1800772","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180216080000}
+{"description":"ASSAULT","incidentNumber":"1800733","location":"2000 BLOCK  S 8TH AVE","agency":"Arcadia Police","date":20180216075000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800754","location":"400 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180217230001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1800750","location":"600 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180217163001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800757","location":"400 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180217120001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800737","location":"300 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180217035000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800768","location":"1100 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180218200601}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800769","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180218194001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800766","location":"900 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180218193001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800763","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180218164701}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800764","location":"900 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180218163001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1800824","location":"0 BLOCK  E LAS FLORES AVE","agency":"Arcadia Police","date":20180218160001}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1800761","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180218154501}
+{"description":"GRAFFITI","incidentNumber":"1800784","location":"100 BLOCK  E ST JOSEPH ST","agency":"Arcadia Police","date":20180218150001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800767","location":"900 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180218150001}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800752","location":"1800 BLOCK  OAKWOOD AVE","agency":"Arcadia Police","date":20180218090100}
+{"description":"FRAUD","incidentNumber":"1800753","location":"100 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180218080000}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800776","location":"HOLLY AVE &  DUARTE RD","agency":"Arcadia Police","date":20180219190801}
+{"description":"FRAUD","incidentNumber":"1800788","location":"600 BLOCK  BEVERLY DR","agency":"Arcadia Police","date":20180220210801}
+{"description":"ROBBERY-FIREARM-HIGHWAY","incidentNumber":"1800781","location":"600 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180220110000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800803","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180221184001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800804","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180221183801}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800802","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180221182001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800798","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180221162001}
+{"description":"ROBBERY-STRONG ARM-MISCELLANEOUS","incidentNumber":"1800800","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180221100000}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800793","location":"1200 BLOCK  S 3RD AVE","agency":"Arcadia Police","date":20180221075500}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800789","location":"BALDWIN &  HUGO REID","agency":"Arcadia Police","date":20180221002000}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-NIGHT","incidentNumber":"1800818","location":"900 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180222180001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800815","location":"1000 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180222164701}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800812","location":"600 BLOCK  W HUNTINGTON","agency":"Arcadia Police","date":20180222130701}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-DAY","incidentNumber":"1800811","location":"300 BLOCK  E LEMON AVE","agency":"Arcadia Police","date":20180222114500}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800808","location":"600 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180222100000}
+{"description":"NARCOTICS","incidentNumber":"1800809","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180222095000}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1800832","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180223145301}
+{"description":"NARCOTICS","incidentNumber":"1800827","location":"FIRST AVE &  DIAMOND ST","agency":"Arcadia Police","date":20180223125201}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800833","location":"300 BLOCK  LAUREL AVE","agency":"Arcadia Police","date":20180223071000}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800820","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180223003800}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800851","location":"400 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180224144201}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800852","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180224142801}
+{"description":"NARCOTICS","incidentNumber":"1800842","location":"1000 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180224005200}
+{"description":"ASSAULT","incidentNumber":"1800871","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180225215101}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800870","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180225204701}
+{"description":"GRAFFITI","incidentNumber":"1800882","location":"500 BLOCK  CORTEZ RD","agency":"Arcadia Police","date":20180225170001}
+{"description":"FRAUD","incidentNumber":"1800862","location":"N SANTA ANITA AVE &  210 FREEWAY","agency":"Arcadia Police","date":20180225082500}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800861","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180225081000}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800858","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180225004900}
+{"description":"GRAFFITI","incidentNumber":"1800894","location":"200 BLOCK  E LONGDEN AVE","agency":"Arcadia Police","date":20180226193001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800892","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180226180001}
+{"description":"ASSAULT","incidentNumber":"1800889","location":"300 BLOCK  WALNUT AVE","agency":"Arcadia Police","date":20180226175501}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800880","location":"100 BLOCK  WHITE OAK DR","agency":"Arcadia Police","date":20180226111000}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-DAY","incidentNumber":"1800878","location":"1700 BLOCK  HIGHLAND OAKS DR","agency":"Arcadia Police","date":20180226090000}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800881","location":"2000 BLOCK  HIGHLAND OAKS DR","agency":"Arcadia Police","date":20180226075500}
+{"description":"FRAUD","incidentNumber":"1800905","location":"500 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20180226000000}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800902","location":"FOOTHILL &  SANTA ANITA","agency":"Arcadia Police","date":20180227194201}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800900","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180227175701}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1800903","location":"600 BLOCK  WALNUT AVE","agency":"Arcadia Police","date":20180227160001}
+{"description":"FRAUD","incidentNumber":"1800921","location":"200 BLOCK  OAKHURST LN","agency":"Arcadia Police","date":20180227000000}
+{"description":"ASSAULT","incidentNumber":"1800912","location":"500 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180228212801}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1800911","location":"200 BLOCK  W LAS FLORES AVE","agency":"Arcadia Police","date":20180228163001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1800914","location":"600 BLOCK  WALNUT AVE","agency":"Arcadia Police","date":20180228160001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1800907","location":"SANTA ANITA AVE &  WOODRUFF AVE","agency":"Arcadia Police","date":20180228151701}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1800904","location":"1600 BLOCK  S 4TH AVE","agency":"Arcadia Police","date":20180228101500}
+{"description":"ROBBERY-STRONG ARM-HIGHWAY","incidentNumber":"1800926","location":"800 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180301215001}
+{"description":"GRAFFITI","incidentNumber":"1800931","location":"700 BLOCK  CAMINO GROVE AVE","agency":"Arcadia Police","date":20180301213001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800925","location":"300 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180301195501}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800924","location":"300 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180301183301}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800943","location":"100 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180302203301}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1800939","location":"100 BLOCK  N 1ST AVE","agency":"Arcadia Police","date":20180302185001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800941","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180302163701}
+{"description":"FRAUD","incidentNumber":"1801011","location":"100 BLOCK  W LEMON AVE","agency":"Arcadia Police","date":20180302093000}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1800929","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180302013000}
+{"description":"NARCOTICS","incidentNumber":"1800927","location":"W DUARTE RD &  SIXTH AVE","agency":"Arcadia Police","date":20180302000300}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1800962","location":"W HUNTINGTON DR &  S GOLDEN WEST AVE","agency":"Arcadia Police","date":20180303233401}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800958","location":"1100 BLOCK  EL SUR AVE","agency":"Arcadia Police","date":20180303200501}
+{"description":"ASSAULT","incidentNumber":"1800953","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180303162001}
+{"description":"ASSAULT-PERSONAL WEAPON (HANDS, FIST, FEET, ETC.)","incidentNumber":"1800975","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180304215001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1800973","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180304185001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1800991","location":"200 BLOCK  SAN LUIS REY RD","agency":"Arcadia Police","date":20180305205101}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1800995","location":"500 BLOCK  SANTA CRUZ RD","agency":"Arcadia Police","date":20180305163001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1800986","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180305135001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801005","location":"1100 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180306215001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801001","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180306154101}
+{"description":"ASSAULT-PERSONAL WEAPON (HANDS, FIST, FEET, ETC.)","incidentNumber":"1800998","location":"100 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180306150001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1801034","location":"400 BLOCK  E SANTA CLARA ST","agency":"Arcadia Police","date":20180306140001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801018","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180307190001}
+{"description":"ASSAULT","incidentNumber":"1801007","location":"2100 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180307010500}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1801048","location":"400 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180308220001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801043","location":"100 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180308201501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801072","location":"400 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180308180001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801040","location":"1200 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180308174201}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801038","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180308160001}
+{"description":"ASSAULT","incidentNumber":"1801059","location":"0 BLOCK  E DUARTE RD","agency":"Arcadia Police","date":20180308152001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801037","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180308140001}
+{"description":"FRAUD","incidentNumber":"1801031","location":"1100 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180308122501}
+{"description":"FRAUD","incidentNumber":"1801032","location":"0 BLOCK  W FOOTHILL BLVD","agency":"Arcadia Police","date":20180308121801}
+{"description":"FRAUD","incidentNumber":"1801028","location":"400 BLOCK  W PALM DR","agency":"Arcadia Police","date":20180308113700}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1801027","location":"100 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180308112500}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801022","location":"SECOND AVE &  ALTA ST","agency":"Arcadia Police","date":20180308065900}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801062","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180309191001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801080","location":"400 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180309184501}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801067","location":"1400 BLOCK  CARMELITA PL","agency":"Arcadia Police","date":20180309180001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1801093","location":"11600 BLOCK  GOLDRING RD","agency":"Arcadia Police","date":20180309180001}
+{"description":"LARCENY-MOTOR VEHICLE PARTS","incidentNumber":"1801094","location":"0 BLOCK  W SAINT JOSEPH ST","agency":"Arcadia Police","date":20180309163001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801058","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180309150001}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801064","location":"1400 BLOCK  CARMELITA PL","agency":"Arcadia Police","date":20180309143001}
+{"description":"NARCOTICS","incidentNumber":"1801052","location":"600 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180309131101}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801065","location":"0 BLOCK  W SANTA CLARA ST","agency":"Arcadia Police","date":20180309100000}
+{"description":"NARCOTICS","incidentNumber":"1801077","location":"200 BLOCK  E SANTA CLARA AVE","agency":"Arcadia Police","date":20180310231601}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1801076","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180310220301}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1801082","location":"1000 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180310220001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1801109","location":"1100 BLOCK  W HUNTINTON DR","agency":"Arcadia Police","date":20180310163001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801073","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180310133901}
+{"description":"OTHER ASSAULTS","incidentNumber":"1801068","location":"800 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180310023900}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801084","location":"400 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180311230001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801085","location":"400 BLOCK  S OLD RANCH RD","agency":"Arcadia Police","date":20180311143001}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801079","location":"1000 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180311034000}
+{"description":"NARCOTICS","incidentNumber":"1801078","location":"100 BLOCK  N 2ND AVE","agency":"Arcadia Police","date":20180311031100}
+{"description":"NARCOTICS","incidentNumber":"1801100","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180312221201}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801097","location":"EL MONTE AVE &  CAMINO REAL AVE","agency":"Arcadia Police","date":20180312151501}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1801126","location":"800 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180312120001}
+{"description":"ROBBERY-KNIFE-MISCELLANEOUS","incidentNumber":"1801091","location":"900 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20180312003000}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1801121","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180313203001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801120","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180313193001}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801123","location":"400 BLOCK  W LEROY AVE","agency":"Arcadia Police","date":20180313160001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801124","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180313140001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801108","location":"200 BLOCK  HACIENDA DR","agency":"Arcadia Police","date":20180313100000}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801136","location":"800 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180314225401}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801134","location":"400 BLOCK  W LE ROY AVE","agency":"Arcadia Police","date":20180314201301}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801133","location":"600 BLOCK  W LEMON AVE","agency":"Arcadia Police","date":20180314181501}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801131","location":"0 BLOCK  BONITA ST","agency":"Arcadia Police","date":20180314151201}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801135","location":"0 BLOCK  ONTARE RD","agency":"Arcadia Police","date":20180314131101}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801153","location":"1300 BLOCK  OAKWOOD AVE","agency":"Arcadia Police","date":20180315212801}
+{"description":"ROBBERY-STRONG ARM-HIGHWAY","incidentNumber":"1801151","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180315192001}
+{"description":"ASSAULT","incidentNumber":"1801145","location":"800 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180315122001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1801138","location":"SANTA ANITA AVE &  LE ROY AVE","agency":"Arcadia Police","date":20180315012100}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801207","location":"1100 BLOCK  RANCHO RD","agency":"Arcadia Police","date":20180316200001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801174","location":"0 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180316190601}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801176","location":"100 BLOCK  BONITA ST","agency":"Arcadia Police","date":20180316170001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801172","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180316162401}
+{"description":"FRAUD","incidentNumber":"1801170","location":"300 BLOCK  TOPAZ PL","agency":"Arcadia Police","date":20180316153501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801168","location":"0 BLOCK  E LAS FLORES AVE","agency":"Arcadia Police","date":20180316130001}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1801165","location":"200 BLOCK  COLORADO PL","agency":"Arcadia Police","date":20180316122001}
+{"description":"ROBBERY-DANGEROUS WEAPON-MISCELLANEOUS","incidentNumber":"1801164","location":"1100 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180316113000}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1801161","location":"1800 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20180316090000}
+{"description":"FRAUD","incidentNumber":"1801229","location":"200 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180316080000}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801159","location":"1300 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180316040600}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1801163","location":"400 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180316033000}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801193","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180317225301}
+{"description":"OTHER ASSAULTS","incidentNumber":"1801194","location":"400 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180317221501}
+{"description":"NARCOTICS","incidentNumber":"1801192","location":"900 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180317212501}
+{"description":"FRAUD","incidentNumber":"1801191","location":"1100 BLOCK  S SIXTH AVE","agency":"Arcadia Police","date":20180317190001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1801198","location":"100 BLOCK  W LONGDEN AVE","agency":"Arcadia Police","date":20180317180001}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801303","location":"800 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180317110000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801181","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180317110000}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1801178","location":"200 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180317040700}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801177","location":"200 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180317024600}
+{"description":"NARCOTICS","incidentNumber":"1801175","location":"N BALDWIN AVE &  HARVARD DR","agency":"Arcadia Police","date":20180317002700}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1801206","location":"300 BLOCK  E FOREST ST","agency":"Arcadia Police","date":20180318160001}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801196","location":"200 BLOCK  WALNUT AVE","agency":"Arcadia Police","date":20180318021700}
+{"description":"ALCOHOL RELATED VIOLATIONS","incidentNumber":"1801195","location":"0 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20180318001800}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801223","location":"300 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180319220001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1801222","location":"1200 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180319184501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801215","location":"1500 BLOCK  S SECOND AVE","agency":"Arcadia Police","date":20180319143001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801268","location":"700 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20180319113000}
+{"description":"BURGLARY-NO FORCE-NON RESIDENCE-DAY","incidentNumber":"1801209","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180319014500}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801234","location":"200 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20180320192001}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1801227","location":"0 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180320094500}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1801225","location":"100 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180320072700}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801250","location":"300 BLOCK  WARREN WAY","agency":"Arcadia Police","date":20180321203001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801247","location":"SANTA ANITA AVE &  HUNTINGTON DR","agency":"Arcadia Police","date":20180321143101}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801244","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180321131501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801243","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180321130001}
+{"description":"NARCOTICS","incidentNumber":"1801246","location":"5400 BLOCK  N PECK RD","agency":"Arcadia Police","date":20180321074000}
+{"description":"ASSAULT","incidentNumber":"1801270","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180322182001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801269","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180322175001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1801277","location":"5500 BLOCK  PECK RD","agency":"Arcadia Police","date":20180322173001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-UNKNOWN","incidentNumber":"1801276","location":"5500 BLOCK  PECK RD","agency":"Arcadia Police","date":20180322173001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801274","location":"1000 BLOCK  W ARCADIA AVE","agency":"Arcadia Police","date":20180322170001}
+{"description":"FRAUD","incidentNumber":"1801266","location":"1100 BLOCK  DRAKE RD","agency":"Arcadia Police","date":20180322160501}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801264","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180322143301}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1801263","location":"2800 BLOCK  WARREN WAY","agency":"Arcadia Police","date":20180322143001}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801354","location":"100 BLOCK  W SANTA ANITA TER","agency":"Arcadia Police","date":20180322090000}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801271","location":"700 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20180322063000}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801255","location":"900 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180322040300}
+{"description":"LARCENY-MOTOR VEHICLE PARTS","incidentNumber":"1801298","location":"500 BLOCK  E NORMAN AVE","agency":"Arcadia Police","date":20180323230001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801293","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180323212801}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801292","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180323203001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801290","location":"300 BLOCK  W PALM DR","agency":"Arcadia Police","date":20180323185001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801306","location":"100 BLOCK  GENOA ST","agency":"Arcadia Police","date":20180323134801}
+{"description":"FRAUD","incidentNumber":"1801338","location":"200 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180323111300}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801280","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180323101300}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801311","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180324224901}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801310","location":"1000 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180324204901}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801308","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180324160401}
+{"description":"ROBBERY-FIREARM-HIGHWAY","incidentNumber":"1801301","location":"1100 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180324023000}
+{"description":"FRAUD","incidentNumber":"1801326","location":"2400 BLOCK  S SIXTH AVE","agency":"Arcadia Police","date":20180325184101}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801331","location":"300 BLOCK  W WISTARIA AVE","agency":"Arcadia Police","date":20180325143001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801327","location":"1600 BLOCK  ELEVADO AVE","agency":"Arcadia Police","date":20180325123001}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1801375","location":"1000 BLOCK  RODEO RD","agency":"Arcadia Police","date":20180325110000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801314","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180325014200}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801313","location":"E HUNTINGTON DR &  N 1ST AVE","agency":"Arcadia Police","date":20180325011400}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801312","location":"0 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20180325005300}
+{"description":"FRAUD","incidentNumber":"1801346","location":"BALDWIN AVE &  GATE 10","agency":"Arcadia Police","date":20180326222901}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801342","location":"200 BLOCK  OAKHURST LN","agency":"Arcadia Police","date":20180326201901}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801348","location":"300 BLOCK  E HAVEN AVE","agency":"Arcadia Police","date":20180326183001}
+{"description":"MOTOR VEHICLE THEFT-AUTO","incidentNumber":"1801344","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180326153001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801334","location":"0 BLOCK  EL DORADO ST","agency":"Arcadia Police","date":20180326125001}
+{"description":"FRAUD","incidentNumber":"1801333","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180326113000}
+{"description":"FRAUD","incidentNumber":"1801376","location":"100 BLOCK  W LONGDEN AVE","agency":"Arcadia Police","date":20180326000000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801368","location":"0 BLOCK  W FOOTHILL BLVD","agency":"Arcadia Police","date":20180327230001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801370","location":"100 BLOCK  W FOREST AVE","agency":"Arcadia Police","date":20180327193001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801369","location":"100 BLOCK  W FOREST AVE","agency":"Arcadia Police","date":20180327190001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801379","location":"1400 BLOCK  RANCHO RD","agency":"Arcadia Police","date":20180327183001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801356","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180327141501}
+{"description":"FRAUD","incidentNumber":"1801382","location":"800 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180327123601}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1801357","location":"200 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180327103000}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801361","location":"900 BLOCK  WIGWAM AVE","agency":"Arcadia Police","date":20180327100000}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801352","location":"100 BLOCK  N 1ST AVE","agency":"Arcadia Police","date":20180327092000}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801351","location":"100 BLOCK  N 1ST AVE","agency":"Arcadia Police","date":20180327090000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801426","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180328203001}
+{"description":"NARCOTICS","incidentNumber":"1801381","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180328201101}
+{"description":"ASSAULT","incidentNumber":"1801380","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180328190001}
+{"description":"WEAPONS, CARRYING, POSSESSING","incidentNumber":"1801374","location":"200 BLOCK  COLORADO PL","agency":"Arcadia Police","date":20180328105100}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801377","location":"500 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180328010000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801400","location":"200 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180329202001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801395","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180329141301}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801393","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180329095000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801390","location":"900 BLOCK  FAIRVIEW AVE","agency":"Arcadia Police","date":20180329093900}
+{"description":"FRAUD","incidentNumber":"1801405","location":"100 BLOCK  EL DORADO ST","agency":"Arcadia Police","date":20180329080000}
+{"description":"ASSAULT","incidentNumber":"1801422","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180330201901}
+{"description":"ALCOHOL RELATED VIOLATIONS","incidentNumber":"1801418","location":"400 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180330193801}
+{"description":"FRAUD","incidentNumber":"1801416","location":"0 BLOCK  E LEROY AVE","agency":"Arcadia Police","date":20180330173001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801420","location":"100 BLOCK  W WISTARIA AVE","agency":"Arcadia Police","date":20180330163501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801413","location":"100 BLOCK  N 1ST AVE","agency":"Arcadia Police","date":20180330153801}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801411","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180330150401}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1801412","location":"900 BLOCK  KINGSLEY DR","agency":"Arcadia Police","date":20180330134701}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1801410","location":"LIVE OAK AVE &  SECOND AVE","agency":"Arcadia Police","date":20180330134601}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801427","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180330133001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1801407","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180330105200}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801404","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180330033000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801448","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180331193001}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801431","location":"0 BLOCK  W LONGDEN AVE","agency":"Arcadia Police","date":20180331162501}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1801430","location":"400 BLOCK  E PAMELA RD","agency":"Arcadia Police","date":20180331134501}
+{"description":"FRAUD","incidentNumber":"1801439","location":"0 BLOCK  N SECOND AVE","agency":"Arcadia Police","date":20180331132401}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801428","location":"SANTA ANITA AVE &  LIVE OAK AVE","agency":"Arcadia Police","date":20180331113700}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801451","location":"100 BLOCK  W GRANDVIEW AVE","agency":"Arcadia Police","date":20180401223001}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801445","location":"800 BLOCK  SUNSET BLVD","agency":"Arcadia Police","date":20180401201701}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801444","location":"1000 BLOCK  E CAMINO REAL AVE","agency":"Arcadia Police","date":20180401195601}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801443","location":"100 BLOCK  N 1ST AVE","agency":"Arcadia Police","date":20180401191901}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801437","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180401063300}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801434","location":"LIVE OAK AVE &  PECK RD","agency":"Arcadia Police","date":20180401020800}
+{"description":"NARCOTICS","incidentNumber":"1801459","location":"FIFTH AVE &  HUNTINGTON DR","agency":"Arcadia Police","date":20180402232501}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1801457","location":"600 BLOCK  BEVERLY DR","agency":"Arcadia Police","date":20180402192701}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801480","location":"5700 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180402100000}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1801455","location":"100 BLOCK  SANTA CRUZ RD","agency":"Arcadia Police","date":20180402083000}
+{"description":"FRAUD","incidentNumber":"1801470","location":"11900 BLOCK  CLARK ST","agency":"Arcadia Police","date":20180403201701}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801471","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180403201501}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801472","location":"1300 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180403163001}
+{"description":"NARCOTICS","incidentNumber":"1801468","location":"500 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20180403155001}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1801466","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180403153301}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801467","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180403150601}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1801489","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180403044000}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1801460","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180403044000}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801565","location":"1300 BLOCK  S SIXTH AVE","agency":"Arcadia Police","date":20180403000000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801493","location":"100 BLOCK  E FOOTHILL BLVD","agency":"Arcadia Police","date":20180404204001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801483","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180404130001}
+{"description":"ASSAULT","incidentNumber":"1801503","location":"700 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180404072500}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801479","location":"0 BLOCK  LA PORTE ST","agency":"Arcadia Police","date":20180404061300}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1801478","location":"1000 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180404041900}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801476","location":"0 BLOCK  EL DORADO ST","agency":"Arcadia Police","date":20180404010900}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801477","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180404010800}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801505","location":"500 BLOCK  N ALTURA RD","agency":"Arcadia Police","date":20180405215701}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801504","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180405183001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801502","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180405150001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1801517","location":"0 BLOCK  WHEELER ST","agency":"Arcadia Police","date":20180406211301}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801518","location":"900 BLOCK  KINGSLSEY DR","agency":"Arcadia Police","date":20180406210701}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801516","location":"1400 BLOCK  RODEO RD","agency":"Arcadia Police","date":20180406202501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801513","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180406135601}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801528","location":"1700 BLOCK  OAKWOOD AVE","agency":"Arcadia Police","date":20180406084500}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801508","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180406033200}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801506","location":"700 BLOCK  E CAMINO REAL AVE","agency":"Arcadia Police","date":20180406001000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801541","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180407233001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801539","location":"0 BLOCK  N 2ND AVE","agency":"Arcadia Police","date":20180407225901}
+{"description":"GRAFFITI","incidentNumber":"1801540","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180407224001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801537","location":"100 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180407212401}
+{"description":"OTHER ASSAULTS","incidentNumber":"1801533","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180407184001}
+{"description":"GRAFFITI","incidentNumber":"1801558","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180407180001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801530","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180407173601}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801535","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180407160001}
+{"description":"NARCOTICS","incidentNumber":"1801526","location":"DUARTE RD &  FOURTH AVE","agency":"Arcadia Police","date":20180407125901}
+{"description":"DISTURBING THE PEACE","incidentNumber":"1801555","location":"0 BLOCK  BONITA ST","agency":"Arcadia Police","date":20180408212001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801554","location":"600 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180408161501}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-DAY","incidentNumber":"1801548","location":"1600 BLOCK  ELEVADO AVE","agency":"Arcadia Police","date":20180408095000}
+{"description":"ASSAULT","incidentNumber":"1801545","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180408025100}
+{"description":"WEAPONS, CARRYING, POSSESSING","incidentNumber":"1801543","location":"COLORADO PL &  COLORADO BLVD","agency":"Arcadia Police","date":20180408013100}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801542","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180408002000}
+{"description":"GRAFFITI","incidentNumber":"1801562","location":"200 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20180409183801}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801561","location":"500 BLOCK  W LONGDEN AVE","agency":"Arcadia Police","date":20180409163501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801572","location":"300 BLOCK  W CAMINO REAL AVE","agency":"Arcadia Police","date":20180409090000}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801582","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180410132501}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801580","location":"400 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180410130601}
+{"description":"ROBBERY-FIREARM-COMMERCIAL ESTABLISHMENT","incidentNumber":"1801573","location":"600 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180410095500}
+{"description":"NARCOTICS","incidentNumber":"1801567","location":"9900 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20180410012600}
+{"description":"ASSAULT","incidentNumber":"1801606","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180411203001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801607","location":"100 BLOCK  W WOODRUFF AVE","agency":"Arcadia Police","date":20180411175701}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801604","location":"2600 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180411160701}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801600","location":"400 BLOCK  DRAKE RD","agency":"Arcadia Police","date":20180411143001}
+{"description":"NARCOTICS","incidentNumber":"1801598","location":"600 BLOCK  N 2ND AVE","agency":"Arcadia Police","date":20180411133101}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801595","location":"100 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180411124501}
+{"description":"MOTOR VEHICLE THEFT-TRUCK OR BUS","incidentNumber":"1801627","location":"400 BLOCK  E LEMON AVE","agency":"Arcadia Police","date":20180412223001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801619","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180412203001}
+{"description":"MOTOR VEHICLE THEFT-OTHER","incidentNumber":"1801626","location":"ROSEWOOD DR &  LEAFWOOD DR","agency":"Arcadia Police","date":20180412190001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801616","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180412151001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801614","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180412135701}
+{"description":"NARCOTICS","incidentNumber":"1801610","location":"500 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180412014200}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801640","location":"400 BLOCK  S BALDWIN AVENEUE","agency":"Arcadia Police","date":20180413170101}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801642","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180413160001}
+{"description":"LARCENY-BICYCLE(S)","incidentNumber":"1801639","location":"100 BLOCK  CAMPUS DR","agency":"Arcadia Police","date":20180413135001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801634","location":"200 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180413134501}
+{"description":"NARCOTICS","incidentNumber":"1801631","location":"800 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180413111100}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801625","location":"DURFEE AVE &  RIO HONDO PKWY","agency":"Arcadia Police","date":20180413024600}
+{"description":"FRAUD","incidentNumber":"1801677","location":"300 BLOCK  GENOA ST","agency":"Arcadia Police","date":20180413000000}
+{"description":"ROBBERY-STRONG ARM-SERVICE STATION","incidentNumber":"1801657","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180414194001}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1801655","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180414170001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801656","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180414165701}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801654","location":"EL MONTE AVE &  NAOMI AVE","agency":"Arcadia Police","date":20180414153601}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801653","location":"200 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180414092000}
+{"description":"ASSAULT-OTHER DANGEROUS WEAPON","incidentNumber":"1801648","location":"800 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180414050000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801671","location":"400 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180415191501}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1801665","location":"1400 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20180415153001}
+{"description":"FRAUD","incidentNumber":"1801736","location":"100 BLOCK  LORALYN DR","agency":"Arcadia Police","date":20180415100000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801667","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180415023000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801683","location":"600 BLOCK  W DUARTE RD","agency":"Arcadia Police","date":20180416221501}
+{"description":"FRAUD","incidentNumber":"1801673","location":"100 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180416105900}
+{"description":"FRAUD","incidentNumber":"1801702","location":"1200 BLOCK  S SECOND AVE","agency":"Arcadia Police","date":20180417234801}
+{"description":"LARCENY-MOTOR VEHICLE PARTS","incidentNumber":"1801703","location":"100 BLOCK  ALTA ST","agency":"Arcadia Police","date":20180417223001}
+{"description":"MOTOR VEHICLE THEFT-TRUCK OR BUS","incidentNumber":"1801695","location":"400 BLOCK  E SANTA CLARA ST","agency":"Arcadia Police","date":20180417202801}
+{"description":"BURGLARY-FORCE-RESIDENCE-UNKNOWN TIME","incidentNumber":"1801742","location":"1900 BLOCK  ALTA OAKS DR","agency":"Arcadia Police","date":20180417140001}
+{"description":"ASSAULT-NO WEAPON (SIMPLE ASSAULT)","incidentNumber":"1801689","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180417121801}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801684","location":"300 BLOCK  E HAVEN AVE","agency":"Arcadia Police","date":20180417082800}
+{"description":"NARCOTICS","incidentNumber":"1801732","location":"800 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180419223301}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801726","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180419191301}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801723","location":"200 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180419170001}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801718","location":"400 BLOCK  W NORMAN AVE","agency":"Arcadia Police","date":20180419143701}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-DAY","incidentNumber":"1801715","location":"GRAND VIEW AVE &  WILSON AVE","agency":"Arcadia Police","date":20180419114300}
+{"description":"ASSAULT","incidentNumber":"1801712","location":"2500 BLOCK  S SECOND AVE","agency":"Arcadia Police","date":20180419081200}
+{"description":"FRAUD","incidentNumber":"1801739","location":"2600 BLOCK  EL CAPITAN AVE","agency":"Arcadia Police","date":20180419000000}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801737","location":"1400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180420105700}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801768","location":"600 BLOCK  E CAMINO REAL AVE","agency":"Arcadia Police","date":20180421220001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801788","location":"400 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180421172001}
+{"description":"BURGLARY-ATTEMPT-NON RESIDENCE-UNKNOWN TIME","incidentNumber":"1801764","location":"100 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180421163001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801758","location":"0 BLOCK  W FOOTHILL BLVD","agency":"Arcadia Police","date":20180421160001}
+{"description":"FRAUD","incidentNumber":"1801778","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180421103000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801752","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180421091000}
+{"description":"FRAUD","incidentNumber":"1801773","location":"0 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180421080000}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801772","location":"2000 BLOCK  CANYON RD","agency":"Arcadia Police","date":20180422212001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801770","location":"1300 BLOCK  S GOLDEN WEST AVE","agency":"Arcadia Police","date":20180422181501}
+{"description":"ASSAULT","incidentNumber":"1801767","location":"600 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180422143001}
+{"description":"NARCOTICS","incidentNumber":"1801766","location":"100 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180422132501}
+{"description":"ASSAULT","incidentNumber":"1801760","location":"700 BLOCK  ARCADIA AVE","agency":"Arcadia Police","date":20180422031500}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-NIGHT","incidentNumber":"1801790","location":"1300 BLOCK  STANDISH PL","agency":"Arcadia Police","date":20180423230001}
+{"description":"LARCENY-FROM BUILDING","incidentNumber":"1801787","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180423191201}
+{"description":"LARCENY-ALL OTHER","incidentNumber":"1801793","location":"800 BLOCK  LA CADENA AVE","agency":"Arcadia Police","date":20180423143301}
+{"description":"NARCOTICS","incidentNumber":"1801779","location":"800 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180423123401}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801797","location":"HUNTINGTON DR &  GATE 1","agency":"Arcadia Police","date":20180424153301}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1801801","location":"500 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180424103000}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801811","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180425202701}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801886","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180425194501}
+{"description":"BURGLARY-FORCE-RESIDENCE-DAY","incidentNumber":"1801807","location":"800 BLOCK  KINGSLEY DR","agency":"Arcadia Police","date":20180425150101}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801816","location":"1100 BLOCK  HIGHLAND OAKS DR","agency":"Arcadia Police","date":20180425110900}
+{"description":"FRAUD","incidentNumber":"1801839","location":"700 BLOCK  S GOLDEN WEST AVE","agency":"Arcadia Police","date":20180425041700}
+{"description":"BURGLARY-ATTEMPT-RESIDENCE-NIGHT","incidentNumber":"1801822","location":"0 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180426220001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801819","location":"600 BLOCK  SUNSET BLVD","agency":"Arcadia Police","date":20180426201601}
+{"description":"GRAFFITI","incidentNumber":"1801823","location":"0 BLOCK  E HUNTINGTON DR","agency":"Arcadia Police","date":20180426163001}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801841","location":"100 BLOCK  E NORMAN","agency":"Arcadia Police","date":20180427194501}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801837","location":"200 BLOCK  N SANTA ANITA AVE","agency":"Arcadia Police","date":20180427161101}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801832","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180427131801}
+{"description":"ASSAULT","incidentNumber":"1801833","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180427131301}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801827","location":"200 BLOCK  COLORADO PL","agency":"Arcadia Police","date":20180427074500}
+{"description":"LARCENY-MOTOR VEHICLE PARTS","incidentNumber":"1801890","location":"1000 BLOCK  PORTOLA DR","agency":"Arcadia Police","date":20180428233001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1801855","location":"0 BLOCK  E LIVE OAK AVE","agency":"Arcadia Police","date":20180428213101}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801865","location":"100 BLOCK  E SAINT JOSEPH ST","agency":"Arcadia Police","date":20180428210001}
+{"description":"FRAUD","incidentNumber":"1801860","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180428190601}
+{"description":"ASSAULT","incidentNumber":"1801853","location":"EL NORTE AVE &  8TH AVE","agency":"Arcadia Police","date":20180428173801}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801849","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180428121001}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801846","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180428080000}
+{"description":"BURGLARY-NO FORCE-RESIDENCE-NIGHT","incidentNumber":"1801844","location":"0 BLOCK  W ARTHUR AVE","agency":"Arcadia Police","date":20180428004700}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801868","location":"FOOTHILL BLVD &  BALDWIN AVE","agency":"Arcadia Police","date":20180429230201}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801863","location":"100 BLOCK  E ST JOSEPH ST","agency":"Arcadia Police","date":20180429180601}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801862","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180429171901}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801864","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180429170001}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801859","location":"700 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180429124001}
+{"description":"DRUNK IN PUBLIC","incidentNumber":"1801887","location":"100 BLOCK  S FIRST AVE","agency":"Arcadia Police","date":20180501125001}
+{"description":"FRAUD","incidentNumber":"1801946","location":"600 BLOCK  W NAOMI AVE","agency":"Arcadia Police","date":20180501000000}
+{"description":"MOTOR VEHICLE THEFT","incidentNumber":"1801910","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180502183001}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1801905","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180502181501}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-DAY","incidentNumber":"1801904","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180502180301}
+{"description":"BURGLARY-FORCE-NON RESIDENCE-NIGHT","incidentNumber":"1801906","location":"100 BLOCK  N FIRST AVE","agency":"Arcadia Police","date":20180502173501}
+{"description":"LARCENY-FROM MOTOR VEHICLE","incidentNumber":"1801901","location":"400 BLOCK  MAGELLAN RD","agency":"Arcadia Police","date":20180502141001}
+{"description":"NARCOTICS","incidentNumber":"1801926","location":"FIRST AVE &  E HUNTINGTON DR","agency":"Arcadia Police","date":20180503212501}
+{"description":"LARCENY-SHOPLIFTING","incidentNumber":"1801933","location":"400 BLOCK  S BALDWIN AVE","agency":"Arcadia Police","date":20180503204501}
+{"description":"BURGLARY-FORCE-RESIDENCE-NIGHT","incidentNumber":"1801925","location":"600 BLOCK  ESTRELLA AVE","agency":"Arcadia Police","date":20180503180601}
+{"description":"FRAUD","incidentNumber":"1801924","location":"600 BLOCK  LAS TUNAS DR","agency":"Arcadia Police","date":20180503180001}
+{"description":"NARCOTICS","incidentNumber":"1801915","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180503133001}
+{"description":"NARCOTICS","incidentNumber":"1801950","location":"200 BLOCK  W HUNTINGTON DR","agency":"Arcadia Police","date":20180503133001}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801940","location":"CAMINO REAL AVE &  HOLLY AVE","agency":"Arcadia Police","date":20180504183001}
+{"description":"NARCOTICS","incidentNumber":"1801931","location":"PECK RD &  CLARK ST","agency":"Arcadia Police","date":20180504105100}
+{"description":"DRIVING/ BOATING UNDER THE INFLUENCE","incidentNumber":"1801927","location":"600 BLOCK  S SANTA ANITA AVE","agency":"Arcadia Police","date":20180504015500}
