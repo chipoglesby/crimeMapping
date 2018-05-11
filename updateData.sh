@@ -6,6 +6,7 @@ for folder in *; do
     for subfolder in *; do
       if [[ -d "$subfolder" ]]; then
         cd "$subfolder" || exit
+        echo "$subfolder"
         ./*.sh
         cd ..
       fi
